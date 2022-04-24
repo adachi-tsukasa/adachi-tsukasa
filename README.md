@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tsukasa</h1>
 <h3 align="center">A passionate engineer from Japan</h3>
 
-- 🔭 I’m currently working on **CustermerSuccessPlatform's Comapny in Japan**
+- 🔭 I’m currently working on **Customer-success platform's Comapny in Japan**
 
 - 📫 How to reach me **heartwork666@gmail.com**
 
